@@ -1,0 +1,4 @@
+<view class="svg-demo-container">
+  <text class="icon-open-new icon"></text>
+  <text class="svg-demo-text">在新窗口打开</text>
+</view>
