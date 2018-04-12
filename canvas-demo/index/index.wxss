@@ -1,0 +1,4 @@
+.canvas-demo-canvas{
+  width: 750rpx;
+  height: 1000rpx;
+}
