@@ -13,6 +13,7 @@ Page({
     ctx.save();
     ctx.strokeStyle = "blue";  //填充颜色
     ctx.scale(1,1)  //缩放比例
+    ctx.setLineWidth(10)
     ctx.beginPath();
     this.moveTo(33.609554, 92.2973);
     this.bezierCurveTo(25.849306000000002, 77.841322, 21.627914000000004, 57.562917000000006, 29.579143000000002, 43.211664000000006);

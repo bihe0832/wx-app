@@ -8,8 +8,8 @@ wx-app 是个人在微信小程序开发中各种开发Demo或者代码片段的
 ### 代码目录
 
 	├── README.md
-	├── canvas-demo：微信小程序开发之SVG的使用对应demo (wechatide://minicode/3yHqQCmJ6XYg)
-	└── svg-demo：微信小程序开发之SVG的使用对应demo (wechatide://minicode/Qbo6ewmT69Ym)
+	├── canvas-demo：微信小程序开发之SVG的使用对应demo (wechatide://minicode/6OzE4Dmw6qYh)
+	└── svg-demo：微信小程序开发之SVG的使用对应demo (wechatide://minicode/f3zNjDmE6oYB)
 
 ### 相关文章
 
