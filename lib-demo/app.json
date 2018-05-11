@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "index/index",
+    "demo/classLib",
+    "demo/exportLib",
+    "demo/exportLib1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

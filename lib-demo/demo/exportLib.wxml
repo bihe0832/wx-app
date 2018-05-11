@@ -1,0 +1,3 @@
+<text>最终结果为：{{result}}</text>
+<button bindtap='test'>点击测试</button>
+

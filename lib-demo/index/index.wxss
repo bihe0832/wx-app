@@ -1,0 +1,29 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  flex-flow: column wrap;
+  border-style: solid;
+  border-color: #e5e5e5;
+  border-top-width: 0.5rpx;
+  border-right-width: 0rpx;
+  border-bottom-width: 0rpx;
+  border-left-width: 0rpx; 
+}
+
+.item{
+  height: 94rpx;
+  padding-left: 30rpx;
+  border-style: solid;
+  border-color: #e5e5e5;
+  border-top-width: 0rpx;
+  border-right-width: 0rpx;
+  border-bottom-width: 0.5rpx;
+  border-left-width: 0rpx; 
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
