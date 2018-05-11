@@ -1,6 +1,7 @@
 <view class="intro">关于使用第三方库的简单Demo</view>
-  <view class="container">
-    <view class="item" bindtap='goClassLib'> 使用静态类通过require引入</view>
-    <view class="item" bindtap='goExportLib'> 使用函数通过export引入</view>
-    <view class="item" bindtap='goExportLib1'> 使用函数通过export引入+1</view>
+<view class="container">
+  <view class="item" bindtap='goClassLib'> 使用静态类通过require引入</view>
+  <view class="item" bindtap='goExportLib'> 使用函数通过export引入</view>
+  <view class="item" bindtap='goExportLib1'> 使用函数通过export引入+1</view>
 </view>
+<image src="./../assets/zixie.jpeg" mode="aspectFit" class="author"></image>

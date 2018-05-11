@@ -5,7 +5,7 @@ const getRandNumByLimit = function(min, max) {
 const getRandNumByLimitAndNum= function(min, max, num) {
   var arr = [];
   for (var i = 0; i < num; i++) {
-    var rand = ZixieMath.getRandNumByLimit(min, max)
+    var rand = getRandNumByLimit(min, max)
     arr.push(rand)
   }
   return arr;

@@ -27,3 +27,8 @@
   flex-flow: row wrap;
   align-items: center;
 }
+
+.author{
+  margin-top: 100rpx;
+  width: 100%;
+}
